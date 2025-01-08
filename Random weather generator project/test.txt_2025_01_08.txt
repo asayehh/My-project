@@ -1,0 +1,6 @@
+Description: Celestial ClarityTemperature: ColdHIGH: 18°F
+                    (-8°C)LOW: 5°F
+                    (-15°C)Relative: Warmer than normalWindForce: LightWind Speed: 5 mph
+                    (8 kph)information: 
+  Celestial Clarity: The sky is a perfect azure blue, colors seem more vibrant, and details appear sharper. Celestial clarity grants a +4 bonus to Spot, Search, Listen, and Sense Motive checks. It also negates any fear or confusion effects.
+  Cold: An unprotected character in cold weather (below 40°F) must make a Fortitude save each hour (DC 15, + 1 per previous check) or take 1d6 points of nonlethal damage.  A character who has the Survival skill may receive a bonus on her saving throw and may be able to apply this bonus to other characters as well.  A character who takes any nonlethal damage from cold or exposure is beset by frostbite or hypothermia (treat her as fatigued). These penalties end when the character recovers the nonlethal damage she took from the cold and exposure.  Nonlethal damage from cold or exposure cannot be recovered until the character gets out of the cold and warms up again. Once a character is rendered unconscious through the accumulation of nonlethal damage, the cold and exposure begins to deal lethal damage at the same rate.
